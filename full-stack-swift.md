@@ -142,3 +142,5 @@ This is an area I'm probably most excited to explore and why I have built all th
 ## Recap
 
 As of writing this article this project is a little over 3,000 lines of Swift code. Well granted right now it's mostly scaffolding and plumbing to get these few high-level long-term goals in place I am pretty proud of what I have achieved so far in just 3,0000 lines of code considering I have type-safe DSL for HTML and CSS, transforming Markdown to HTML, and CSS, a fully concurrent HTTP server that is plenty fast for my use cases and free to run as it only needs less than 60mb of ram to run, and a web server for which I can experiment with other lots of different aspects of Swift like distributed system in there various forms. Giving my self a platform to solve my problems one by one. Thanks so much for reading about how I built my little space on the web.
+
+[Leave Feedback](https://github.com/zaneenders/articles/blob/main/full-stack-swift.md)
