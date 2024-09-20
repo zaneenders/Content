@@ -18,3 +18,5 @@ So this idea of layering languages is not new. But what if instead of compiling 
 
 Thanks,
 Zane
+
+[Leave Feedback](https://github.com/zaneenders/articles/blob/main/compiling-languages-into-vector-space.md)
