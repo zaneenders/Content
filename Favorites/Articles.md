@@ -9,3 +9,5 @@
 - [Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [Swift Regrets: Wrap-up](https://belkadan.com/blog/2021/12/Swift-Regrets-Wrap-up/?tag=swift-regrets)
 - [How Swift Achieved Dynamic Linking Where Rust Couldn’t](https://faultlore.com/blah/swift-abi/)
+- [The elusive frame rate timing](https://medium.com/@alen.ladavac/the-elusive-frame-timing-168f899aec92)
+- [Hyrums Law](https://peterm.hashnode.dev/hyrums-law)

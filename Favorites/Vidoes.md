@@ -44,3 +44,5 @@
 - [But what is a Fourier series? From heat flow to drawing with circles | DE4](https://youtu.be/r6sGWTCMz2k)
 - [But what is the Riemann zeta function? Visualizing analytic continuation](https://youtu.be/sD0NjbwqlYw)
 - [Visualizing quaternions (4d numbers) with stereographic projection](https://youtu.be/d4EgbgTm0Bg)
+- [JavaScript Engines the Good parts](https://www.youtube.com/watch?v=5nmpokoRaZI)
+- [Johnathan blow interview, Are we moving backwards](https://podcasts.apple.com/us/podcast/full-time-game-dev/id1729875867?i=1000678929844)
