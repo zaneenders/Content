@@ -1,3 +1,9 @@
+-----
+
+date: 24-07-18
+
+-----
+
 # How it’s built
 
 A oh 👋, Welcome to my website this article will give a little insight into how 
@@ -39,7 +45,7 @@ at least get to a working state so I can dog feed it is a text editor. Seeing
 that Swift is my primary language for personal projects I want to have good 
 syntax highlighting for it and figured I could kill two birds with one stone 
 and start figuring out the AST for Swift now. I also plan to build the editor 
-in Swift so I think this will be cool in a sort of self-recursive way.  This 
+in Swift so I think this will be cool in a sort of self-recursive way. This 
 also triples up as an introduction and starting point to learning how the Swift
 compiler works.
 
@@ -184,7 +190,7 @@ nice, especially as someone who is relatively new at programming so being able
 to experiment with concurrent code with the type system behind me to throw 
 errors when I program incorrectly is really powerful in my opinion. There is a 
 cost to this abstraction, actors and classes in Swift are located on the heap 
-and are atomically reference counted  (ARC) so those have their predictable 
+and are atomically reference counted (ARC) so those have their predictable 
 cost, but the compiler team is currently working on adding the idea of 
 ownership with the `~Copyable` protocol to allow reducing the ARC traffic in a 
 program. Below is an example of initializing an actor and in this case with an 
@@ -333,7 +339,7 @@ them to dive deeper into control as they like. I think I have a lot working
 albeit mostly piping and plumbing things together right now but it’s a good 
 start. I wanna try and build something different intended for new people and 
 maybe even those that program but don’t wanna spend to too much time on a 
-website.  Helping others get a personal space on the web for which they control
+website. Helping others get a personal space on the web for which they control 
 and show them the power a little understanding of how a computer works gives 
 you in this world.
 

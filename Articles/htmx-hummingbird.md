@@ -1,3 +1,9 @@
+-----
+
+date: 25-01-25
+
+-----
+
 # HTMX & Hummingbird
 
 I have recently moved my site over to using [HTMX](https://htmx.org) combined 

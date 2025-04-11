@@ -1,3 +1,9 @@
+-----
+
+date: 24-10-17
+
+-----
+
 # Static Swift and Docker from scratch
 
 So [Swift 6.0](https://www.swift.org/blog/announcing-swift-6/) was released 
@@ -12,7 +18,7 @@ slow, buggy, and inconsistent UI/UX across my OS.
 
 The 
 [article](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
- talking  about this is a little too wordy (in my opinion) to learn how it uses
+ talking about this is a little too wordy (in my opinion) to learn how it uses 
 it and what you are getting. Swift has a pretty big runtime so statically 
 compiling programs this way has a bit of a cost at first but the trade-off is 
 after you have included the runtime and all its benefits. So that cost in 
