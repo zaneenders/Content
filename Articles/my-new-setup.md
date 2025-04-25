@@ -6,12 +6,13 @@ date: 25-04-06
 
 # My New Setup
 
-TLDR (Too Long; Didn’t Read):
-
-- I’m back on Asahi Linux, always having the option to reboot to MacOS when 
-  needed.
-- I’m using Neovim again, specifically LazyVim, and I recommend giving LazyVim 
-  a try if you are curious about keyboard-based text editors like vim or emacs.
+> TLDR (Too Long; Didn’t Read):
+> 
+> - I’m back on Asahi Linux, always having the option to reboot to MacOS when 
+>   needed.
+> - I’m using Neovim again, specifically LazyVim, and I recommend giving
+>   LazyVim a try if you are curious about keyboard-based text editors like vim
+>   or emacs.
 
 ## [Asahi Linux](https://asahilinux.org/)
 

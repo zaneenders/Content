@@ -1,5 +1,7 @@
 # Articles
 
+> Words worth reading in my opinion.
+
 - [Programming Languages Comic](https://leftoversalad.com/c/015_programmingpeople/)
 - [C isn’t a Programming Language anymore](https://faultlore.com/blah/c-isnt-a-language/)
 - [Text Rendering hates you too](https://faultlore.com/blah/text-hates-you/)

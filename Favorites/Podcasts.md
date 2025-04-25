@@ -1,5 +1,7 @@
 # Podcasts
 
+> Podcast I gained something from.
+
 - [Time for computers](https://www.twoscomplement.org/podcast/how_fast_are_computers.mp3)
 - [How do we deprecate Kubernetes? | Git Hub Read Me - Kelsey Hightower](https://github.com/readme/podcast/kelsey-hightower)
 - [Swift Doug Gregor](https://www.twoscomplement.org/podcast/swift_with_doug_gregor.mp3)

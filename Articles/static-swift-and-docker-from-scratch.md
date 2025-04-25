@@ -73,7 +73,7 @@ pretty cheap for a blog.
 
 I understand it is not safe to run a web server as root.
 
-```
+```dockerfile
 FROM scratch
 
 COPY . .
