@@ -7,3 +7,5 @@ Here is a link to my [resume](/resume).
 
 - [GitHub](https://github.com/zaneenders)
 - [LinkedIn](https://www.linkedin.com/in/zane-enders)
+
+[Support me with a large coffee ☕️](/large-coffee)
