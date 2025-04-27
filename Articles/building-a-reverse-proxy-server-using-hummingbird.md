@@ -88,7 +88,7 @@ networks:
     external: true
 ```
 
-Pleased with myself for getting this working and it is easier than I expected.
+Pleased with myself for getting this working and it was easier than I expected.
 
 ## Server Name Indication (SNI)
 
@@ -203,3 +203,5 @@ remotely managed this and the servers behind it creating my own little
 distributed system orchestration.
 
 Thanks for reading, Zane.
+
+[Leave Feedback](https://github.com/zaneenders/articles/blob/main/building-a-reverse-proxy-server-using-hummingbird.md)

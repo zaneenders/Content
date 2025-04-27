@@ -114,8 +114,6 @@ Something I think is interesting because Apple deprecates it’s hardware and
 operating systems over time they can actually iterate on there ABI with Swift 
 being included in the OS’s.
 
-Thanks for reading,
+Thanks for reading, Zane
 
-Zane
-
-[Leave Feedback](https://github.com/zaneenders/articles/blob/main/static-swift-and-docker-from-scratch.md)
+[Leave Feedback](https://github.com/zaneenders/Content/blob/main/Articles/static-swift-and-docker-from-scratch.md)

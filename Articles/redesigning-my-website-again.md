@@ -106,4 +106,6 @@ is the motivation behind why I am doing things the way I am doing them, I just
 want to make our digital experience better for all so we can focus on what 
 really matters, our physical reality and those who we share it with.
 
-[Leave Feedback](https://github.com/zaneenders/articles/blob/main/redesigning-my-website-again.md)
+Thanks for reading, Zane.
+
+[Leave Feedback](https://github.com/zaneenders/Content/blob/main/Articles/redesigning-my-website-again.md)

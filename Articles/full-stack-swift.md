@@ -430,4 +430,4 @@ with other lots of different aspects of Swift like distributed system in there
 various forms. Giving my self a platform to solve my problems one by one. 
 Thanks so much for reading about how I built my little space on the web.
 
-[Leave Feedback](https://github.com/zaneenders/articles/blob/main/full-stack-swift.md)
+[Leave Feedback](https://github.com/zaneenders/Content/blob/main/Articles/full-stack-swift.md)

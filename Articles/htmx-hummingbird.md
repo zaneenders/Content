@@ -47,4 +47,4 @@ refactoring easier. I can easily add new routes as I need which has allowed me
 to start working on a campaign Apple App (iOS, iPad, MacOS) as well as a 
 command line tool to interact with this server.
 
-[Leave Feedback](https://github.com/zaneenders/articles/blob/main/htmx-hummingbird.md)
+[Leave Feedback](https://github.com/zaneenders/Content/blob/main/Articles/htmx-hummingbird.md)
