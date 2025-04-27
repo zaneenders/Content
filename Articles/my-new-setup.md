@@ -10,7 +10,7 @@ date: 25-04-06
 > 
 > - I’m back on Asahi Linux, always having the option to reboot to MacOS when 
 >   needed.
-> - I’m using Neovim again, specifically LazyVim, and I recommend giving
+> - I’m using Neovim again, specifically LazyVim, and I recommend giving 
 >   LazyVim a try if you are curious about keyboard-based text editors like vim
 >   or emacs.
 

@@ -2,7 +2,7 @@
 
 > Some videos I found value from or entertaining.
 
-- ["Simple Made Easy" - Rich Hickey (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- [“Simple Made Easy” - Rich Hickey (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
 - [Making A Browser Is Harder Than You Think (Ft Andreas Kling)](https://youtu.be/z1Eq0xlVs3g?feature=shared&t=2574)
 - [The Trillion Dollar Equation - Veritasium](https://www.youtube.com/watch?v=A5w-dEgIU1M)
 - [Keynote: The Road To Phoenix LiveView 1.0 by Chris McCord | ElixirConf EU 
