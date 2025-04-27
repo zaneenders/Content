@@ -11,3 +11,4 @@
   the art. The art is the thing that happens inside you when you make it and 
   the feeling in the heart of the beholder.](https://youtu.be/qjPAWy_2FL0?feature=shared&t=270)
 - Flow like water - Steph
+- If you want to have a successful business you need to do at least one of three things, save people time, save people money or bring value ot there life. - Jenn
