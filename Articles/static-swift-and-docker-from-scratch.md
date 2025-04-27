@@ -116,4 +116,4 @@ being included in the OS’s.
 
 Thanks for reading, Zane
 
-[Leave Feedback](https://github.com/zaneenders/Content/blob/main/Articles/static-swift-and-docker-from-scratch.md)
+[Leave Feedback](https://github.com/zaneenders/Content/edit/main/Articles/static-swift-and-docker-from-scratch.md)

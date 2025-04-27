@@ -108,4 +108,4 @@ really matters, our physical reality and those who we share it with.
 
 Thanks for reading, Zane.
 
-[Leave Feedback](https://github.com/zaneenders/Content/blob/main/Articles/redesigning-my-website-again.md)
+[Leave Feedback](https://github.com/zaneenders/Content/edit/main/Articles/redesigning-my-website-again.md)

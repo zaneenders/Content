@@ -266,5 +266,5 @@ reboot into MacOS for a few things but I see a path to moving away from that
 dependency.
 
 Thanks for reading, and please feel free to leave 
-[feedback](https://github.com/zaneenders/Content/blob/main/Articles/my-new-setup.md)
+[feedback](https://github.com/zaneenders/Content/edit/main/Articles/my-new-setup.md)
  . - Zane
