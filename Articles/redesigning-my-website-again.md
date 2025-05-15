@@ -75,7 +75,8 @@ and user runnable code snippets.
 This ties into why I chose HTMX over static file rendering: I wanted some level
 of server-side interactivity. Creative control is the underlying theme here.
 
-> Here I can run code form the markdown file on the server and insert the output into the DOM.
+> Here I can run code form the markdown file on the server and insert the
+> output into the DOM.
 
 ```swift run
 for i in 0..<10 {
