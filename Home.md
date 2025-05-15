@@ -7,5 +7,3 @@ I’m currently seeking a software engineering role. Here is a link to my
 
 - [GitHub](https://github.com/zaneenders)
 - [LinkedIn](https://www.linkedin.com/in/zane-enders)
-
-[Support me with a large coffee ☕️](/large-coffee)
