@@ -1,3 +1,9 @@
+-----
+
+date: 25-05-14
+
+-----
+
 # Swift & C++
 
 > Started learning C++ mixed with a bit of Swift
@@ -89,11 +95,11 @@ protocols and value types.
 Something kinda demonic but kinda fun is my leetcode 
 [solutions](https://github.com/zaneenders/leetcode) are in C++, but I wrote the
 tests and ran the project in Swift. So no CMake or other C++ build systems just
-letting `swiftc` and internally `clang` take care of that, which allows me to
-leverage Swift for what it’s really good at right now, high-level abstraction
-programming. This is kinda a fun medium to move between, you have a high level
-of concurrency safe language and the ability to drop down to low level control
-with various degrees of safety. Swift is, in a way, gradually typing the
+letting `swiftc` and internally `clang` take care of that, which allows me to 
+leverage Swift for what it’s really good at right now, high-level abstraction 
+programming. This is kinda a fun medium to move between, you have a high level 
+of concurrency safe language and the ability to drop down to low level control 
+with various degrees of safety. Swift is, in a way, gradually typing the 
 computers that we are stuck with.
 
 ## Wrap up
