@@ -61,3 +61,5 @@ Wanting to give a summary or a reason why you should read or listen to the book
 was what spawned this post. In hindsight of how dense it was and how little I 
 am able to site from it makes me want to give it another listen and take notes 
 for a better report.
+
+[Source](https://github.com/zaneenders/Content/edit/main/Articles/scale-by-geoffery-west.md)
